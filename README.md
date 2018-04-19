@@ -17,7 +17,7 @@ Install Thoughtbot's dotfiles:
 
 Then clone mine:
 
-    git clone git://github.com/fwuensche/dotfiles.git ~/dotfiles-local
+    git clone git://github.com/fwuensche/dotfiles-local.git ~/dotfiles-local
 
 And re-run rcup to link:
 
